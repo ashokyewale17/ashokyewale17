@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AWS & DevOps tools**
 
-- 🌱 I’m currently learning **Azure & Kubernetes**
+- 🌱 I’m currently learning **Azure && Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashokyewale17?tab=repositories](https://github.com/ashokyewale17?tab=repositories)
 
