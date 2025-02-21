@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ashok Yewale</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashok+Yewale!;+A+DevOps+and+DevSecOps+Engineer!" />
+</h1>
+
+<h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokyewale17&label=Profile%20views&color=0e75b6&style=flat" alt="ashokyewale17" /> </p>
 
