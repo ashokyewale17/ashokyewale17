@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashokyewale17" alt="ashokyewale17" /></a> </p>
 
-- 🔭 I’m currently working on **AWS & DevOps tools**
+- 🔭 I’m currently working on **AWS, Docker & Terraform**
 
 - 🌱 I’m currently learning **Azure & Kubernetes**
 
