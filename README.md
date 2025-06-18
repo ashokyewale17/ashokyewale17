@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashokyewale17" alt="ashokyewale17" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 🔭 I’m currently working on **AWS, Docker & Terraform**
 
 - 🌱 I’m currently learning **Azure & Kubernetes**
