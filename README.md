@@ -1,7 +1,12 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hello!+I'm+Ashok+Yewale;DevOps+Engineer+|+Cloud+Learner+|+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=700&height=60&lines=Hey+There!+I'm+Ashok+Yewale+👋;DevOps+Engineer+%7C+Cloud+Native+Learner;Automation+%7C+CI%2FCD" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Ashok%20Yewale-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=ashokyewale17&style=for-the-badge&label=Profile+Views&color=blueviolet" alt="ashokyewale17" />
+</p>
 
 ---
 
